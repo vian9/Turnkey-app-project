@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Login from '../src/components/LoginPage/loginPage';
-import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
