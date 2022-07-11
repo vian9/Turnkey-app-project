@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import styles from './Dashboard.module.css';
+import styles from './dashboard.module.css';
 
 export default function Navbar() {
   return (
